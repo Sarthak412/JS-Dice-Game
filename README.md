@@ -9,4 +9,6 @@
 - JavaScript for functionality.
 
 ## This Project is hosted on Netlify:
-<a href="dice-game-js-sarthak.netlify.app"> Dice Game </a>
+<p> Click the below link to check it out: </p>
+
+## <a href="https://dice-game-js-sarthak.netlify.app/"> Dice Game </a>
