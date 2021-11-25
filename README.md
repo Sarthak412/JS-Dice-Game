@@ -1,2 +1,9 @@
 # JS-Dice-Game
-Dice game using HTML, CSS &amp; JavaScript
+
+## New Features:
+- Popping a animated modal after winning the game.
+- Background change after winning the game.
+
+## Technologies and Languages used:
+- HTML & CSS for Front-end.
+- JavaScript for functionality.
